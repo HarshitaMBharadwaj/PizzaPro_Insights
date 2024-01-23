@@ -142,12 +142,16 @@ The dashboard provides comprehensive insights into pizza sales, featuring intuit
 - Large pizzas are the highest selling pizza size.
 - Customizable visualizations available for each pizza category.
 
+![pizza_sales](Pizza_sales_db_HOME.png)
+
 ### Dashboard 2: Worst and Best Sellers
 
 - Thai Chicken Pizza contributes to Maximum and Bari Carre Pizza contributes Minimum Revenue.
 - The Classic Deluxe Pizza contributes to Maximum and Bari Carre Pizza contributes Minimum Quantities.
 - The Classic Deluxe Pizza contributes to Maximum and Bari Carre Pizza contributes Minimum Total Orders.
 - All the visualizations can be customized for each pizza category.
+
+![best_worst_sellers_sales](Pizza_sales_db_W&BS.png)
 
 ## Conclusion
 The MySQL and Tableau analysis of pizza sales data reveals a substantial business with diverse offerings. The provided dashboards offer a comprehensive view of revenue, order patterns, and category-specific sales.
