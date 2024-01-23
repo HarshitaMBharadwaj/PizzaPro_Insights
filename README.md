@@ -1,5 +1,3 @@
-# Pizza_sales_dashboard
-
 # Pizza Sales Data Analysis and Visualization
 
 ## Overview
